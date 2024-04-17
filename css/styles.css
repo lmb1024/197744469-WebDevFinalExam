@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 5px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: azure;
+    height: 75px;
+}
+
+main {
+    background-color: lightsteelblue;
+    flex: auto;
+}
+
+footer{
+    background-color: azure;
+    height: 50px;
+}
+
+h1{
+    color: midnightblue;
+}
+
+p{
+    background-color: aquamarine;
+}
+
+h3{
+    color: blueviolet;
+}
